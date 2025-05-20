@@ -10,7 +10,7 @@
     <a href="https://github.com/adityapawar327/Legit">
       <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
     </a>
-    <a href="YourLegitWebsiteLinkHere">
+    <a href="https://legit-sooty.vercel.app/">
       <img src="https://img.shields.io/badge/Website-Live%20Demo-informational?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
     </a>
     <img src="https://img.shields.io/github/stars/adityapawar327/Legit?style=for-the-badge&color=gold" alt="GitHub Stars"/>
